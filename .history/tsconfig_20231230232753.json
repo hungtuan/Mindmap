@@ -30,8 +30,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "app/(site)/my-mindmap/component/Header/Header.jsx",
-    "app/(site)/my-mindmap/component/Mindmap/Mindmap.jsx"
+    "app/(site)/flowchart/component/Header/Header.jsx",
+    "app/(site)/flowchart/component/Flowchart/Flowchart.jsx"
   ],
   "exclude": ["node_modules"]
 }
